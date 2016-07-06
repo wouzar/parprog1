@@ -1,2 +1,4 @@
-w2_reductions/project/*
-w2_reductions/.idea/*
+**/project/project/*
+**/project/target/*
+**/target/*
+**/.idea/*
