@@ -1,7 +1,0 @@
-test
-console
-test
-runMain reductions.ParallelCountChangeRunner
-test
-runMain reductions.ParallelCountChangeRunner
-test
